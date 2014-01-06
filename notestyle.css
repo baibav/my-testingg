@@ -1,5 +1,5 @@
 BODY{font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background-color:#bcbcbc;background-image:url("http://imageshack.us/scaled/landing/405/backgroundns.png");font-size: 15px;}
-.notesTextArea{padding-left:20px;margin-left:19px;padding-top:15px;border:0;width:95%;font-size:22px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;line-height:41px;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;overflow:hidden;resize:none;border-radius:35px}
+.notesTextArea{padding-left:20px;margin-left:19px;padding-top:15px;border:0;width:95%;font-size:22px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;line-height:41px;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;overflow:inherit;resize:none;border-radius:35px}
 .notesframeArea{padding-left:13px;margin-left:12px;padding-top:10px;border:0;width:65%;font-size:15px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;border-radius:10px}
 .notesframeArea:hover{box-shadow:0 0 25px #0093ff;-webkit-box-shadow:0 0 25px #0093ff;-moz-box-shadow:0 0 25px #0093ff}
 .notesTextArea:hover{box-shadow:0 0 45px #b3df7e;-webkit-box-shadow:0 0 30px #83c0f0;-moz-box-shadow:0 0 30px #b3df7e}
