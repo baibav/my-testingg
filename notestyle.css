@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Tangerine);
+@font-face{font-family: 'Tangerine';font-style: normal;font-weight: 400;src: local('Tangerine'), url(http://themes.googleusercontent.com/static/fonts/tangerine/v4/HGfsyCL5WASpHOFnouG-RKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');}
 BODY{text-align:center;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background-color:#bcbcbc;background-image:url("http://imageshack.us/scaled/landing/405/backgroundns.png");font-size: 15px;}
 h1{font-family: 'Tangerine', serif;font-weight: bold; color: #0093FF; font-size: 100px;}
 h2{font-family: 'Tangerine', serif;color:#0093FF; font-size: 45px;}
