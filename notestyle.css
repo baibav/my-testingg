@@ -1,6 +1,9 @@
-BODY{font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background-color:#bcbcbc;background-image:url("http://imageshack.us/scaled/landing/405/backgroundns.png");font-size: 15px;}
+@import url(http://fonts.googleapis.com/css?family=Tangerine);
+BODY{text-align:center;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background-color:#bcbcbc;background-image:url("http://imageshack.us/scaled/landing/405/backgroundns.png");font-size: 15px;}
+h1{font-family: 'Tangerine', serif;font-weight: bold; color: #0093FF; font-size: 100px;}
+h2{font-family: 'Tangerine', serif;color:#0093FF; font-size: 45px;}
 .notesTextArea{padding-left:20px;margin-left:19px;padding-top:15px;border:0;width:95%;font-size:22px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;line-height:41px;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;overflow:inherit;resize:none;border-radius:35px}
-.notesframeArea{padding-left:13px;margin-left:12px;padding-top:10px;border:0;width:65%;font-size:15px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;border-radius:10px}
+.notesframeArea{padding-left:13px;margin-left:12px;padding-top:10px;border:0;width:65%;font-size:15px;font-family:"Marker Felt", "Segoe Print", Geneva, Verdana, sans-serif;background:url(http://imageshack.us/scaled/landing/836/framebackground.png);display:block;border-radius:10px;margin:0 auto;}
 .notesframeArea:hover{box-shadow:0 0 25px #0093ff;-webkit-box-shadow:0 0 25px #0093ff;-moz-box-shadow:0 0 25px #0093ff}
 .notesTextArea:hover{box-shadow:0 0 45px #b3df7e;-webkit-box-shadow:0 0 30px #83c0f0;-moz-box-shadow:0 0 30px #b3df7e}
 .link-style a{font-size:23px;color:#0093ff;font-family:Arial,Helvetica,sans-serif;font-weight:700;-webkit-transition:color .4s linear;-moz-transition:color .4s linear;-ms-transition:color .4s linear;-o-transition:color .4s linear;transition:color .4s linear;border-radius:10px;text-decoration:none;padding:2px 5px 5px}
